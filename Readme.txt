@@ -1,4 +1,6 @@
 Hello git world!
 make some file for practicing this method
 
-There are many functions in this program.
+There are many functions in this program
+
+If I eat some delicious things, then what can you do for me????
